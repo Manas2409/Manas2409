@@ -20,9 +20,9 @@ AI Engineer | MIS Graduate Student @ UMD
   </br>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask,linux"/>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask"/>
   </br>
-  <img src="https://skillicons.dev/icons?i=vscode,colab,anaconda,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,colab,linux,anaconda,git,github,postman" />
 
   <!-- AI / ML / LLM -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
