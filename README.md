@@ -16,12 +16,12 @@ AI Engineer | MIS Graduate Student @ UMD
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,c" />
     
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,linux" />
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,postman" />
 
   <!-- AI / ML / LLM -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
