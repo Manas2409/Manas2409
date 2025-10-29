@@ -1,5 +1,8 @@
 ## Hi there, I'm Manas 👋
 AI Engineer | MIS Graduate Student @ UMD
+
+Tech Stack
+Python 
 <!--
 **Manas2409/Manas2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
