@@ -6,9 +6,9 @@ AI Engineer | MIS Graduate Student @ UMD
 <p align="left">
   <!-- Backend & Databases -->
   <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,python,cpp,c,fastapi,flask,git,github,linux,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,cpp,c,fastapi,flask,elasticsearch,git,github,linux,vscode,postman,docker" />
   <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,tensorrt,pytorch,opencv,langchain,huggingface,openai" />
 
 </p>
 
