@@ -20,6 +20,8 @@ AI Engineer | MIS Graduate Student @ UMD
     
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
   <!-- AI / ML / LLM -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
@@ -35,12 +37,12 @@ AI Engineer | MIS Graduate Student @ UMD
   <img width="80" src="https://img.shields.io/badge/Tesseract-093F86?style=flat" />
   
   <!-- MLOps / Deployment -->
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,linux" />
+  
   <img width="70" src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
   <img width="80" src="https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" />
   
   <!-- Tools & IDEs -->
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,github,gitlab,npm,postman" />
+  
 </p>
 
 
