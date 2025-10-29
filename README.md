@@ -24,23 +24,10 @@ AI Engineer | MIS Graduate Student @ UMD
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
   <!-- AI / ML / LLM -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
   <img height="40" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
   <img height="40" src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat" />
   <img height="40" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-  
-  <!-- Vision -->
-  <img width="60" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img width="60" src="https://img.shields.io/badge/YOLO-00FFFF?style=flat" />
-  <img width="80" src="https://img.shields.io/badge/Detectron2-2C4CC9?style=flat" />
-  <img width="80" src="https://img.shields.io/badge/PaddleOCR-005CE6?style=flat" />
-  <img width="80" src="https://img.shields.io/badge/Tesseract-093F86?style=flat" />
-  
-  <!-- MLOps / Deployment -->
-  
-  <img width="70" src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
-  <img width="80" src="https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" />
-  
   <!-- Tools & IDEs -->
   
 </p>
