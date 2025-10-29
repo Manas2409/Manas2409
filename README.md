@@ -12,24 +12,38 @@ AI Engineer | MIS Graduate Student @ UMD
 
 <!-- </p> --> -->
 
+### 🛠️ Skills & Tools
 
-<!-- LLM / NLP -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+    
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 
-<!-- Vision -->
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Detectron2-2C4CC9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PaddleOCR-005CE6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tesseract-093F86?style=for-the-badge" />
+  <!-- AI / ML / LLM -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img width="60" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img width="90" src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat" />
+  <img width="70" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  
+  <!-- Vision -->
+  <img width="60" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img width="60" src="https://img.shields.io/badge/YOLO-00FFFF?style=flat" />
+  <img width="80" src="https://img.shields.io/badge/Detectron2-2C4CC9?style=flat" />
+  <img width="80" src="https://img.shields.io/badge/PaddleOCR-005CE6?style=flat" />
+  <img width="80" src="https://img.shields.io/badge/Tesseract-093F86?style=flat" />
+  
+  <!-- MLOps / Deployment -->
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,linux" />
+  <img width="70" src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
+  <img width="80" src="https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" />
+  
+  <!-- Tools & IDEs -->
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,github,gitlab,npm,postman" />
+</p>
 
-<!-- Deployment -->
-<img src="https://skillicons.dev/icons?i=docker,fastapi,linux" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 
 <!--
 **Manas2409/Manas2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
