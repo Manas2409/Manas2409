@@ -17,8 +17,8 @@ AI Engineer | MIS Graduate Student @ UMD
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,cpp,c" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask"/>
-  <img src="https://skillicons.dev/icons?i=vscode,colab,linux,anaconda,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,elasticsearch"/>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,anaconda,docker,azure,git,github,postman" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
   <img height="40" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
   <img height="40" src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat" />
