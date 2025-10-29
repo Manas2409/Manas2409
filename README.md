@@ -4,17 +4,14 @@ AI Engineer | MIS Graduate Student @ UMD
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux" />
-  <br/>
   <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <br/>
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,pycharm,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,linux,vscode,postman" />
 </p>
 
 <!--
