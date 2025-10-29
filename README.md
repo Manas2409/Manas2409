@@ -20,7 +20,6 @@ AI Engineer | MIS Graduate Student @ UMD
     
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 
   <!-- AI / ML / LLM -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
