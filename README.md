@@ -5,8 +5,8 @@ AI Engineer | MIS Graduate Student @ UMD
 
 <p align="left">
   <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,Microsoft SQL Server,python,cpp,c,github,gitlab,linux,vscode,postman" />
-
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,python,cpp,c,github,gitlab,linux,vscode,postman" />
+  <img width="40px" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"/>
 </p>
 
 <!--
