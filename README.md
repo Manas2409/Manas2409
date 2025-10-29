@@ -26,8 +26,8 @@ AI Engineer | MIS Graduate Student @ UMD
   <!-- AI / ML / LLM -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img height="100" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img width="90" src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat" />
-  <img width="70" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img height="90" src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat" />
+  <img height="70" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
   
   <!-- Vision -->
   <img width="60" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
