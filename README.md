@@ -15,10 +15,7 @@ AI Engineer | MIS Graduate Student @ UMD
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,c"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,elasticsearch"/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,c,mongodb,mysql,sqlite,fastapi,flask,elasticsearch,pytorch,tensorflow,opencv"/>
   <img height="40" src="https://cdn.simpleicons.org/huggingface/FFD21E"/>
   <img height="40" src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat"/>
   <img height="40" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
