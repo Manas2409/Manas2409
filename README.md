@@ -15,13 +15,14 @@ AI Engineer | MIS Graduate Student @ UMD
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <!-- Programming Languages -->
+  <br>
   <img src="https://skillicons.dev/icons?i=python,r,cpp,c" />
-    
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask,linux" />
-  <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,postman" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,flask,linux"/>
+  </br>
+  <img src="https://skillicons.dev/icons?i=vscode,colab,anaconda,git,github,postman" />
 
   <!-- AI / ML / LLM -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
